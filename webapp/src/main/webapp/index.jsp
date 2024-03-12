@@ -29,6 +29,10 @@
     <label for="psw"><b>Naukri Profile URL</b></label>
     <input type="Naukri Profile URL" placeholder="Naukri URL please" name="psw" id="psw" required>
     <br>
+ 
+    <label for="psw"><b>Indeed Profile URL</b></label>
+    <input type="Indeed Profile URL" placeholder="Indeed URL please" name="psw" id="psw" required>
+    <br>
 
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
