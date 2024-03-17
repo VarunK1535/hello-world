@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter a3a name="mobile" id="a3a" required>
     <br>
 
+    <label for="Armor><b>Enter q3a</b></label>
+    <input type="text" placeholder="Armor="mobile" id="Armor" required>
+    <br>
+
 
 
     <label for="email"><b>Enter Email</b></label>
